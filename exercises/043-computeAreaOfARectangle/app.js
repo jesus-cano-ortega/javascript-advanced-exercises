@@ -1,8 +1,6 @@
 function computeAreaOfARectangle(length, width) {
   // your code here
-  return length * width
-
-
+  return length * width;
 }
 
 var output = computeAreaOfARectangle(10, 18);
